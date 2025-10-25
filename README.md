@@ -222,6 +222,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 **Ayi NEDJIMI Consultants - 2025**
 
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
