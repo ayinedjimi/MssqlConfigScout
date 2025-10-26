@@ -238,6 +238,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 
 </div>
 
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
+
 ---
 
 <div align="center">
